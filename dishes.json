@@ -87,7 +87,7 @@
     { "name": "Andrea's Cheesecake", "description": "Decadent cheesecake, baked to perfection on a traditional golden oat biscuit base" },
     { "name": "Apple Charlotte", "description": "A classic apple dessert with layers of fruit and sponge" },
     { "name": "Apple Crumble", "description": "Warm, spiced apples topped with a golden crumble, served with custard sauce" },
-    { "name": "Cake Of The Day", "description": "" },
+    { "name": "Cake Of The Day", "description": "Kindly enquire about today’s selection." },
     { "name": "Cheese Cake", "description": "Rich and creamy cheesecake  house favorite" },
     { "name": "Cheese Platter", "description": "A selection of fine cheeses, served with crackers and fruit" },
     { "name": "Leopard Rock Chocolate Fondant", "description": "Rich baked chocolate fondant oozing chocolate sauce, served with ice cream" },
@@ -141,4 +141,5 @@
     { "name": "Traditional Beef Meat Bones Tray", "description": "Rich, slow-braised beef bones" },
     { "name": "Macaroni and Cheese", "description": "Baked pasta in a creamy, indulgent cheese sauce" }
   ]
+
 }
