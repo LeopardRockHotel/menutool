@@ -98,8 +98,8 @@
     { "name": "Malva Pudding", "description": "A traditional South African pudding, rich and caramelized" },
     { "name": "Mozart Cake", "description": "A decadent layered cake with rich marzipan and chocolate" },
     { "name": "Banoffee Pie", "description": "A luscious banana and toffee tart with a biscuit base" },
-    { "name": "Swiss Carrot Cake", "description": "A moist carrot cake with a hint of spice" }
-    { "name": "Salted Caramel Baked Cheesecake", "description": "Salted caramel cheesecake with a golden oat biscuit base" }
+    { "name": "Swiss Carrot Cake", "description": "A moist carrot cake with a hint of spice" },
+    { "name": "Salted Caramel Baked Cheesecake", "description": "Salted caramel cheesecake with a golden oat biscuit base" },
     { "name": "Chocolate Cake", "description": "A rich, dark, and moist chocolate cake" }
     
   ],
