@@ -100,8 +100,7 @@
     { "name": "Banoffee Pie", "description": "A luscious banana and toffee tart with a biscuit base" },
     { "name": "Swiss Carrot Cake", "description": "A moist carrot cake with a hint of spice" },
     { "name": "Salted Caramel Baked Cheesecake", "description": "Salted caramel cheesecake with a golden oat biscuit base" },
-    { "name": "Chocolate Cake", "description": "A rich, dark, and moist chocolate cake" }
-    
+    { "name": "Chocolate Cake", "description": "A rich, dark, and moist chocolate cake" } 
   ],
   "buffet": [
     { "name": "Fruit Salad", "description": "Fresh seasonal fruits with a scoop of ice cream" },
